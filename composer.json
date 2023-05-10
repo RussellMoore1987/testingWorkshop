@@ -1,0 +1,22 @@
+{
+    "name": "russell.moore/testing-workshop",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RussellMoore",
+            "email": "truthandgoodness87@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    }
+}
