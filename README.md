@@ -1,8 +1,8 @@
-# testingWorkshop
+# Testing Workshop
 BTECH Testing and Testing Strategy Workshop
 
 ## To Run Tests
-vendor/bin/phpunit tests --colors
+`vendor/bin/phpunit tests --colors`
 
 ## Workshop Presentation Resources
 https://russellwebdev.notion.site/Testing-and-Testing-Strategies-05ae4886ab0c446ea2c562e7eaf91884
