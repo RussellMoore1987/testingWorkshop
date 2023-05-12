@@ -2,7 +2,7 @@
 
 namespace App;
 
-class ProductionDataFactory
+class TechnicianPayLogGenerator
 {
     // for testing send in $production_report = ['records_off' => 0], and $production_logs = []
     public function getStandardProductionLogs(array $productionReport, array $productionLogs): array
